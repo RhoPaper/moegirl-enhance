@@ -2,6 +2,8 @@
 
 一个用于 [萌娘百科](https://zh.moegirl.org.cn/) 的 UserScript，专注于净化页面、去除广告，并为页面换上更好看的自定义背景。
 
+> 本项目是 [萌娘百科优化](https://greasyfork.org/zh-CN/scripts/577883)（作者 [jianh-ai](https://greasyfork.org/zh-CN/users/1275918-jianh-ai)）的 Fork 版本，在原脚本基础上进行了调整与增强。原项目同样基于 MIT 协议开源，在此致谢。
+
 ## ✨ 功能
 
 - **去除广告与追踪脚本**：拦截并移除 Google Analytics、Google Tag Manager、Google AdSense、DoubleClick 等脚本与全屏广告。
@@ -31,7 +33,12 @@ const BG_API = 'https://t.alcy.cc/moe';
 
 ## 📄 许可证
 
-本项目基于 [MIT License](./LICENSE) 开源。
+本项目基于 [MIT License](./LICENSE) 开源，与原项目一致。
+
+## 🔗 相关链接
+
+- 原项目（Greasy Fork）：<https://greasyfork.org/zh-CN/scripts/577883>
+- 原项目作者：<https://greasyfork.org/zh-CN/users/1275918-jianh-ai>
 
 ## ⚠️ 免责声明
 
